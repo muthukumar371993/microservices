@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
       - name: "offer"
-        image:  santhoshkumarsk/spring:v2
+        image:  saisky/offer:v2
         ports:
         - containerPort:  1001
           name: "offer"
